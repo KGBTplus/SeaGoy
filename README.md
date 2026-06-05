@@ -21,3 +21,8 @@
 ## 🏗️ Архитектура системы
 
 Проект спроектирован с упором на производительность, безопасность и непрерывную доступность (High Availability).
+
+## Ссылки
+* DevOPs - https://github.com/KGBTplus/DevOps
+* Backend - https://github.com/KGBTplus/backend
+* Frontend - https://github.com/KGBTplus/Sea-Battle-Frontend-GUI
