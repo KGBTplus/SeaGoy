@@ -25,6 +25,5 @@
 
 ## Ссылки на модули
 
-* DevOps - https://github.com/KGBTplus/DevOps
 * Backend - https://github.com/KGBTplus/backend
 * Frontend - https://github.com/KGBTplus/Sea-Battle-Frontend-GUI
